@@ -14,6 +14,8 @@ Sou um estudante do Subsequente de Informática no Instituto Federal Baiano e mo
 
 Para meus projetos de programação, eu geralmente só envio para o Github quando faço um progresso significativo. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
 
+![](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif)
+     
 <!---
 Larissa-bee/Larissa-bee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
