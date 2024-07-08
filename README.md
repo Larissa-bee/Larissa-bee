@@ -1,3 +1,8 @@
+
+[](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
+
+
 - 👋 Olá, eu sou @Larissa Rodrigues.
 - 👀 Estou interessada em Design Gráfico.
 - 🌱 Eu estou aprendendo Programação.
