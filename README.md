@@ -1,7 +1,6 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - 👋 Olá, eu sou @Larissa Rodrigues.
 - 👀 Estou interessada em Design Gráfico.
@@ -16,6 +15,7 @@ Sou um estudante do Subsequente de Informática no Instituto Federal Baiano e mo
 
 Para meus projetos de programação, eu geralmente só envio para o Github quando faço um progresso significativo. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
      
 <!---
 Larissa-bee/Larissa-bee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
