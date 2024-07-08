@@ -16,9 +16,13 @@ Sou um estudante do Subsequente de Informática no Instituto Federal Baiano e mo
 Para meus projetos de programação, eu geralmente só envio para o Github quando faço um progresso significativo. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
 
 
+
+## 📊 &nbsp;Stats
+
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=Larissa-bee&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Larissa-bee&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
 
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
